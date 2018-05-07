@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\controllers",
+    "\\src\\controllers\\conversations"
+  ],
+  "SelectedNode": "\\src\\controllers\\conversations\\get_conversation.controller.js",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,26 @@
+{
+  "name": "kt-api",
+  "version": "0.0.1",
+  "description": "Kaitaku API",
+  "main": "app.js",
+  "repository": {
+    "url": "git@github.com:tsuz/kt-api.git",
+    "type": "git"
+  },
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "tsuz <tak215@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^2.5.0",
+    "bluebird": "^3.5.0",
+    "bunyan": "^1.8.10",
+    "dotenv": "^4.0.0",
+    "faker": "^4.1.0",
+    "lodash": "^4.17.4",
+    "restify": "^5.0.1",
+    "restify-cors-middleware": "^1.0.0",
+    "restify-errors": "^4.3.0"
+  }
+}
